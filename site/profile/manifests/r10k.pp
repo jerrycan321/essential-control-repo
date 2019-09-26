@@ -1,4 +1,4 @@
-class profile::10k {
+class profile::r10k {
   class {'r10k':
     remote => 'https://github.com/jerrycan321/essential-control-repo',
   }
